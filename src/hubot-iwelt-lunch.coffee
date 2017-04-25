@@ -1,11 +1,9 @@
 # Description
-#   A hubot script that does the things
-#
-# Configuration:
-#   LIST_OF_ENV_VARS_TO_SET
+#   Simple Hubot script to list the current lunch dishes
 #
 # Commands:
 #   hubot lunch - List the daily Benedini lunch dishes
+#   hubot lunch 2017-3-30 - List Benedini's lunch dishes of 2017-3-30
 #
 # Author:
 #   Jonas Friedmann <j@frd.mn>
