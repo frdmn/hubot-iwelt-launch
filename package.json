@@ -1,5 +1,5 @@
 {
-  "name": "hubot-iwelt-launch",
+  "name": "hubot-iwelt-lunch",
   "description": "A hubot script that does the things",
   "version": "0.0.0",
   "author": "Jonas Friedmann <j@frd.mn>",
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/frdmn/hubot-iwelt-launch.git"
+    "url": "git://github.com/frdmn/hubot-iwelt-lunch.git"
   },
 
   "bugs": {
-    "url": "https://github.com/frdmn/hubot-iwelt-launch/issues"
+    "url": "https://github.com/frdmn/hubot-iwelt-lunch/issues"
   },
 
   "dependencies": {
